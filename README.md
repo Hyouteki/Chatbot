@@ -20,7 +20,7 @@ pip3 install speechRecognition pyttsx3 hugchat termcolor
 ```
 
 ## How to use
-navigate to the cloned repository and run the following command
+Navigate to the cloned repository and run the following command
 ```
 python bot.py
 ```
