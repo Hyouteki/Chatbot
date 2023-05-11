@@ -14,7 +14,7 @@ Clone the repository by typing the following command in the terminal
 git clone https://github.com/Hyouteki/Chatbot.git
 ```
 ### Step 2
-Download and install and the neccessary libraries
+Download and install all the neccessary libraries
 ```
 pip3 install speechRecognition pyttsx3 hugchat termcolor
 ```
